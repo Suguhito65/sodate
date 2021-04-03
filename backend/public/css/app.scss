@@ -1,5 +1,20 @@
-.hello {
-  color: red;
-  background: yellow;
-  border: 2px solid #000;
+.login_title {
+  font-size: 1.5em;
+  text-align: center;
+  margin: 10px 0;
+}
+
+.login_reminder {
+  text-align: center;
+  margin-top: .5em;
+  
+  a {
+    color: #999;
+    font-size: .8em;
+    text-decoration-line: none;
+  }
+
+  a:hover {
+    color: red;
+  }
 }
